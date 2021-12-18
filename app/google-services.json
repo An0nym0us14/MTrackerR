@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "863676285947",
+    "project_id": "medstracker-cd92e",
+    "storage_bucket": "medstracker-cd92e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863676285947:android:73e1caddead731b861415e",
+        "android_client_info": {
+          "package_name": "com.example.minprojfrag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863676285947-lstqpjihq56o257gbdc7aiibsfe0iqdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWKTQ3rK0_GybLRtBqmz2DSk5AvE0ctk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863676285947-lstqpjihq56o257gbdc7aiibsfe0iqdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863676285947:android:0b1a012930b3133a61415e",
+        "android_client_info": {
+          "package_name": "com.example.mtrackerr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863676285947-lstqpjihq56o257gbdc7aiibsfe0iqdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWKTQ3rK0_GybLRtBqmz2DSk5AvE0ctk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863676285947-lstqpjihq56o257gbdc7aiibsfe0iqdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

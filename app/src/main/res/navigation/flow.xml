@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/flow"
+    app:startDestination="@id/home2">
+
+    <fragment
+        android:id="@+id/home2"
+        android:name="com.example.mtrackerr.home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_home2_to_setEvents"
+            app:destination="@id/setEvents" />
+        <action
+            android:id="@+id/action_home2_to_viewEvents"
+            app:destination="@id/viewEvents" />
+    </fragment>
+    <fragment
+        android:id="@+id/setEvents"
+        android:name="com.example.mtrackerr.setEvents"
+        android:label="fragment_set_events"
+        tools:layout="@layout/fragment_set_events" />
+    <fragment
+        android:id="@+id/viewEvents"
+        android:name="com.example.mtrackerr.ViewEvents"
+        android:label="fragment_view_events"
+        tools:layout="@layout/fragment_view_events" />
+</navigation>
