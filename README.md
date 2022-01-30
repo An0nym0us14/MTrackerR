@@ -1,6 +1,6 @@
 # MTrackerR
- A medicine Tracker Application Used to Remind Patients for there comming Doses , The application isnt Published yet Sharing the Working Link Below
- Working Link of Application- https://drive.google.com/file/d/1W753LiL31Ndc6Yvu6vjwdjTxzIbZhT42/view?usp=drivesdk
+ A medicine Tracker Application Used to Remind Patients for there coming Doses , The application isnt Published yet Sharing the Working Link Below
+ Working Video Link of Application- https://drive.google.com/file/d/1W753LiL31Ndc6Yvu6vjwdjTxzIbZhT42/view?usp=drivesdk
 As this is mobile Application which is not published The working is shared through a google Drive Video
 
 
